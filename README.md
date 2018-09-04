@@ -14,6 +14,9 @@ Send to an idividual or perform an Airdrop of TRX or any specified token.
 
 If you do not wish to use the TApi Menu, you have full access the TApi module to build your own scripts in PowerShell.  Heard over to the Wiki for details to get you started.
 
+# Guides 
+[Quick Start](https://github.com/NeuroMesh/TApiModule/wiki/Quick-Reference)
+
 # Important
 It is highly recommended that you download and install the Tronscan API and run it locally so you do not send your private key over the internet.  Head over to https://github.com/tronscan/tronscan-docker and download Rovaks docker compose instance of Tronscan.
 
