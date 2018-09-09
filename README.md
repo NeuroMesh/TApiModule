@@ -1,4 +1,5 @@
 # TApi (Alpha Release)
+![TApi Logo](/Tron%20flame%20hands%20no%20branding.png)
 TApi is a PowerShell wrapper for the Tronscan API, designed to help Windows professionals adopt the blockchain.
 With the TApi module you will be able to automate many blockchain interactions, including performing Airdrops, getting a list of voters for the last round, converting between epoch/local time, sun/trx and much more.  
 The TApi module enables you to create your own PowerShell scripts to do whatever you like. 
